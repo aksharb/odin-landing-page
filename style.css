@@ -97,3 +97,22 @@ a {
   font-weight: bold;
   margin-left: auto;
 }
+.banner {
+  margin: 40px 160px;
+  padding: 20px 80px;
+  border-radius: 5px;
+  background: #3882f6;
+  color: #f9faf8;
+  display: flex;
+  justify-content: space-between;
+}
+.banner-right {
+  align-self: center;
+}
+.banner-head {
+  font-size: 22px;
+  font-weight: bold;
+}
+.btn-2 {
+  border: solid 2px #f9faf8;
+}
