@@ -50,7 +50,7 @@ a {
   width: 400px;
 }
 .information {
-  padding: 10px 100px;
+  padding: 10px 100px 80px;
 }
 .info-header {
   text-align: center;
@@ -80,4 +80,20 @@ a {
   text-align: center;
   font-weight: 100;
   color: darkgray;
+}
+.quote {
+  display: flex;
+  flex-direction: column;
+  background: #e5e7eb;
+  padding: 80px 400px;
+}
+.quote-text {
+  font-weight: 36px;
+  font-style: italic;
+  font-weight: light;
+  color: #1f2937;
+}
+.author {
+  font-weight: bold;
+  margin-left: auto;
 }
