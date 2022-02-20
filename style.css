@@ -26,3 +26,26 @@ a {
   color: #e5e7eb;
   font-size: 18px;
 }
+.secondary-text {
+  color: #e5e7eb;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.hero-content {
+  display: flex;
+  padding: 40px 0;
+}
+
+.main-text {
+  font-size: 48px;
+  font-weight: 900;
+  color: #f9faf8;
+}
+.btn {
+  background: #3882f6;
+  border-radius: 5px;
+  padding: 4px 12px;
+}
+.right img {
+  width: 400px;
+}
